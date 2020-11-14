@@ -1,7 +1,8 @@
 # Tutorial Sederhana Rest API Klien Menggunakan PHP
- Projek ini menggunakan Bahasa pemrograman PHP dan Mysql sebagai databasenya.
- 
- Koneksi database menggunakan PDO 
+ Projek ini menggunakan Bahasa pemrograman PHP.
+## Server Rest API:
+Untuk Projek Rest API Servernya menggunakan projek link projek berikut ini 
+https://github.com/iamdaniprn/tutorial-rest-api-server-menggunakan-php-dan-mysql
 ## Fitur:
 	- Tampilkan Data Pasien
 	- Tambah Data Pasien
